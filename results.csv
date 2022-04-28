@@ -7,12 +7,12 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 13.52.240.168,US,Amazon.com  Inc.,13.52.240.168,US
 13.82.131.124,US,Microsoft Corporation,13.82.131.124,US
 20.24.78.232,HK,Microsoft Corporation,20.24.78.232,HK
+20.52.22.151,DE,Microsoft Corporation,20.52.22.151,DE
 20.105.204.199,NL,Microsoft Corporation,20.105.204.199,NL
 23.27.206.221,US,EGIHosting,23.27.206.221,US
 23.27.206.249,US,EGIHosting,23.27.206.249,US
 23.88.88.104,DE,Hetzner Online GmbH,23.88.88.104,DE
 23.88.123.180,DE,Hetzner Online GmbH,142.132.187.33,DE
-23.91.98.239,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,23.91.98.239,HK
 23.105.212.213,US,IT7 Networks Inc,23.105.212.213,US
 23.106.84.132,US,Leaseweb USA  Inc.,23.106.84.132,US
 23.108.85.197,US,Leaseweb USA  Inc.,23.108.85.197,US
@@ -33,19 +33,18 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 31.200.241.28,ES,Prored Comunicaciones  S.L.,31.200.241.28,ES
 34.146.62.189,US,Google LLC,34.146.62.189,JP
 35.183.163.195,CA,Amazon.com  Inc.,99.79.40.116,CA
-36.110.215.68,CN,IDC  China Telecommunications Corporation,36.110.215.68,CN
 37.139.4.42,NL,DigitalOcean  LLC,37.139.4.42,NL
 37.152.181.67,IR,Noyan Abr Arvan Co. ( Private Joint Stock),51.15.102.215,NL
 37.152.185.92,IR,Noyan Abr Arvan Co. ( Private Joint Stock),51.15.102.215,NL
 38.128.66.89,US,Cogent Communications,38.128.66.89,US
 38.128.66.141,US,Cogent Communications,38.128.66.141,US
-40.83.101.204,HK,Microsoft Corporation,40.83.101.204,HK
 40.83.124.34,HK,Microsoft Corporation,40.83.124.34,HK
 43.129.191.35,HK,Shenzhen Tencent Computer Systems Company Limited,43.129.191.35,HK
 43.129.206.100,HK,Shenzhen Tencent Computer Systems Company Limited,43.129.206.100,HK
 43.129.221.110,HK,Shenzhen Tencent Computer Systems Company Limited,43.129.221.110,HK
 43.129.224.106,HK,Shenzhen Tencent Computer Systems Company Limited,43.129.224.106,HK
 43.129.228.180,HK,Shenzhen Tencent Computer Systems Company Limited,43.129.228.180,HK
+43.134.91.212,SG,Shenzhen Tencent Computer Systems Company Limited,43.134.91.212,SG
 43.153.31.207,US,Shenzhen Tencent Computer Systems Company Limited,101.35.218.145,CN
 43.229.50.122,CN,CYPRESS TELECOM (CHINA) LIMITED,43.229.50.126,CN
 43.229.50.123,CN,CYPRESS TELECOM (CHINA) LIMITED,43.229.50.126,CN
@@ -82,9 +81,18 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 46.101.173.123,DE,DigitalOcean  LLC,46.101.173.123,DE
 46.101.219.166,DE,DigitalOcean  LLC,46.101.219.166,DE
 46.101.253.56,DE,DigitalOcean  LLC,46.101.253.56,DE
+47.52.50.183,US,Alibaba (US) Technology Co.  Ltd.,13.125.13.106,US
+47.52.57.57,US,Alibaba (US) Technology Co.  Ltd.,47.52.57.57,HK
+47.52.59.79,US,Alibaba (US) Technology Co.  Ltd.,47.52.59.79,HK
+47.52.78.112,US,Alibaba (US) Technology Co.  Ltd.,47.52.78.112,HK
+47.52.101.237,US,Alibaba (US) Technology Co.  Ltd.,13.125.13.106,US
+47.52.117.66,US,Alibaba (US) Technology Co.  Ltd.,47.52.117.66,HK
+47.52.153.213,US,Alibaba (US) Technology Co.  Ltd.,47.52.153.213,HK
+47.52.247.248,US,Alibaba (US) Technology Co.  Ltd.,47.52.247.248,HK
 47.91.15.28,JP,Alibaba (US) Technology Co.  Ltd.,47.91.15.28,JP
 47.91.144.17,CN,Alibaba (US) Technology Co.  Ltd.,47.91.144.17,HK
 47.91.153.45,CN,Alibaba (US) Technology Co.  Ltd.,47.91.153.45,HK
+47.91.207.96,CN,Alibaba (US) Technology Co.  Ltd.,47.91.207.96,HK
 47.91.218.148,CN,Alibaba (US) Technology Co.  Ltd.,47.91.218.148,HK
 47.242.31.83,US,Alibaba (US) Technology Co.  Ltd.,47.242.31.83,HK
 47.242.35.221,US,Alibaba (US) Technology Co.  Ltd.,47.242.35.221,HK
@@ -97,13 +105,13 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 47.242.201.101,US,Alibaba (US) Technology Co.  Ltd.,47.242.201.101,HK
 47.244.25.73,CN,Alibaba (US) Technology Co.  Ltd.,47.244.25.73,HK
 47.244.38.92,CN,Alibaba (US) Technology Co.  Ltd.,47.244.38.92,HK
-47.244.136.244,CN,Alibaba (US) Technology Co.  Ltd.,47.52.117.66,HK
+47.244.136.244,CN,Alibaba (US) Technology Co.  Ltd.,47.52.153.213,HK
 52.8.231.92,US,Amazon.com  Inc.,52.53.154.235,US
 52.23.235.49,US,Amazon.com  Inc.,52.23.235.49,US
 52.53.154.235,US,Amazon.com  Inc.,52.53.154.235,US
 52.91.169.79,US,Amazon.com  Inc.,52.91.169.79,US
 52.197.64.73,JP,Amazon Technologies Inc.,52.197.64.73,JP
-52.209.63.185,IE,Amazon.com  Inc.,54.216.35.102,IE
+52.209.63.185,IE,Amazon.com  Inc.,52.210.44.250,IE
 52.252.14.249,US,Microsoft Corporation,52.252.14.249,US
 54.179.54.202,SG,Amazon.com  Inc.,54.179.54.202,SG
 59.44.17.232,CN,No.31 Jin-rong Street,123.247.36.132,CN
@@ -124,11 +132,7 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 64.227.189.173,IN,DigitalOcean  LLC,64.227.189.173,IN
 65.20.112.110,CA,The Constant Company  LLC,65.20.112.110,US
 65.20.112.216,CA,The Constant Company  LLC,2a05:f480:2000:167b:5400:3ff:fef7:b357,US
-65.20.113.12,CA,The Constant Company  LLC,2a05:f480:2000:19d3:5400:3ff:fef7:ab99,US
-65.20.113.46,CA,The Constant Company  LLC,2a05:f480:2000:1c61:5400:3ff:fef7:9f73,US
 65.20.113.148,CA,The Constant Company  LLC,2a05:f480:2000:105d:5400:3ff:fef4:d4d2,US
-65.20.113.153,CA,The Constant Company  LLC,65.20.113.153,US
-65.20.113.204,CA,The Constant Company  LLC,2a05:f480:2000:1a3f:5400:3ff:fef5:f3c1,US
 65.20.113.252,CA,The Constant Company  LLC,2a05:f480:2000:1436:5400:3ff:fef2:fb0b,US
 65.20.114.77,CA,The Constant Company  LLC,2a05:f480:2000:10a5:5400:3ff:fef7:b5df,US
 66.37.10.206,US,Omnis Network  LLC,66.37.10.206,US
@@ -140,6 +144,8 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 69.162.113.201,US,Limestone Networks  Inc.,192.240.123.3,US
 69.162.113.202,US,Limestone Networks  Inc.,69.162.113.194,US
 69.162.113.204,US,Limestone Networks  Inc.,69.162.113.194,US
+69.164.215.165,US,Linode  LLC,45.79.141.138,US
+69.164.218.242,US,Linode  LLC,69.164.218.150,US
 69.245.11.215,US,Comcast Cable Communications  LLC,69.245.11.215,US
 72.19.12.170,CA,LayerHost,72.19.12.170,US
 74.204.181.101,US,M3COM of Virginia  Inc,74.204.181.100,US
@@ -182,13 +188,15 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 94.250.249.186,RU,JSC IOT,94.250.249.186,RU
 96.126.96.195,US,Linode  LLC,173.230.158.194,US
 96.126.123.14,US,Linode  LLC,45.33.120.188,US
+98.158.193.72,US,Internet Brands Inc.,98.158.192.249,US
 101.36.116.40,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,101.36.116.40,HK
 102.39.182.60,ZA,Vox Telecom Ltd,102.39.182.60,ZA
 103.10.199.51,HK,Pacswitch Globe Telecom Limited,103.10.199.51,HK
 103.73.66.228,HK,HostHatch  LLC,103.73.66.228,HK
-103.137.63.2,TW,rixCloud,122.118.147.168,TW
-103.137.63.3,TW,rixCloud,122.118.146.213,TW
+103.137.63.2,TW,rixCloud,122.118.118.185,TW
+103.137.63.3,TW,rixCloud,122.118.124.216,TW
 103.143.148.13,BD,JUPITER ONLINE SERVICES,103.143.148.43,BD
+103.145.72.28,HK,Beijing Baidu Netcom Science and Technology Co.  Ltd.,103.145.72.28,CN
 103.249.80.186,IN,Pulse Telesystems Pvt Ltd,103.249.80.188,IN
 104.200.137.32,US,Performive LLC,104.200.137.32,US
 104.200.137.41,US,Performive LLC,104.200.137.41,US
@@ -204,8 +212,11 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 104.200.144.16,US,Performive LLC,104.200.144.16,US
 104.237.137.78,US,Linode  LLC,104.237.137.26,US
 104.237.228.27,US,DedFiberCo,104.237.228.27,TR
-107.155.28.131,KR,Korea Telecom,107.155.28.135,KR
+107.155.28.131,KR,Korea Telecom,107.155.28.148,KR
+107.189.4.129,LU,FranTech Solutions,107.189.4.129,LU
 108.129.22.103,IE,Amazon.com  Inc.,108.129.22.103,IE
+108.170.33.181,US,SECURED SERVERS LLC,108.170.33.181,US
+108.170.53.157,US,SECURED SERVERS LLC,108.170.53.157,US
 109.74.198.59,GB,Linode  LLC,109.74.198.174,GB
 109.74.205.88,GB,Linode  LLC,109.74.205.180,GB
 109.234.36.6,NL,Hosting technology LTD,109.234.36.6,NL
@@ -244,10 +255,11 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 138.197.1.81,US,DigitalOcean  LLC,138.197.1.81,US
 138.197.4.154,US,DigitalOcean  LLC,138.197.4.154,US
 138.197.64.157,US,DigitalOcean  LLC,138.197.64.157,US
+139.196.224.73,CN,Hangzhou Alibaba Advertising Co. Ltd.,47.89.225.236,US
 140.238.8.162,KR,Oracle Corporation,140.238.8.162,KR
 140.238.91.216,GB,Oracle Corporation,140.238.91.216,GB
 140.238.99.86,GB,Oracle Corporation,140.238.99.86,GB
-141.98.90.157,GB,IPXO UK LIMITED,82.132.228.228,GB
+141.98.90.157,GB,IPXO UK LIMITED,82.132.228.89,GB
 143.110.181.217,IN,DigitalOcean  LLC,143.110.181.217,IN
 143.110.189.182,IN,DigitalOcean  LLC,143.110.189.182,IN
 143.110.191.200,IN,DigitalOcean  LLC,143.110.191.200,IN
@@ -273,11 +285,11 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 154.204.56.147,HK,LUCIDACLOUD LIMITED,154.204.56.147,HK
 156.96.46.106,US,,156.96.46.106,US
 156.96.47.101,US,,156.96.47.101,US
-156.154.240.35,US,NeuStar  Inc.,156.154.221.198,US
-156.154.240.36,US,NeuStar  Inc.,156.154.221.214,US
-156.154.244.229,US,NeuStar  Inc.,156.154.221.215,US
-156.154.244.230,US,NeuStar  Inc.,156.154.221.197,US
-156.154.245.81,US,NeuStar  Inc.,156.154.221.202,US
+156.154.240.35,US,NeuStar  Inc.,156.154.221.203,US
+156.154.240.36,US,NeuStar  Inc.,156.154.221.205,US
+156.154.244.229,US,NeuStar  Inc.,156.154.221.204,US
+156.154.244.230,US,NeuStar  Inc.,156.154.221.203,US
+156.154.245.81,US,NeuStar  Inc.,156.154.221.206,US
 156.251.189.202,US,CNSERVERS LLC,156.251.189.202,US
 157.230.24.37,DE,DigitalOcean  LLC,2a03:b0c0:3:d0::d8a:f001,DE
 157.230.41.46,SG,DigitalOcean  LLC,157.230.41.46,SG
@@ -288,7 +300,7 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 158.224.84.8,US,,107.173.176.125,US
 158.247.94.74,US,Centrilogic  Inc.,158.247.94.74,US
 158.247.231.124,JP,The Constant Company  LLC,141.164.48.205,KR
-164.52.2.98,SG,CDS Global Cloud Co.  Ltd,164.52.1.179,SG
+164.52.2.98,SG,CDS Global Cloud Co.  Ltd,164.52.1.182,SG
 164.52.2.99,SG,CDS Global Cloud Co.  Ltd,164.52.1.182,SG
 164.52.2.100,SG,CDS Global Cloud Co.  Ltd,164.52.1.182,SG
 165.154.5.167,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.5.167,HK
@@ -315,7 +327,7 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 185.66.165.51,DE,Digital Frankfurt GmbH,185.66.165.4,DE
 185.94.190.36,HU,M247 Ltd,185.94.190.36,HU
 185.118.25.26,LB,Aoun.net s.a.r.l,185.118.25.26,LB
-185.164.137.80,GB,Clouvider Limited,2a04:92c7:e:cb2::bebe,GB
+185.164.137.80,GB,Clouvider Limited,185.164.137.80,GB
 185.170.166.211,NL,Cloudflare London  LLC,107.173.176.125,US
 185.185.41.15,NL,HostUS Solutions LLC,2a0b:7080:10::1:ed47,NL
 185.185.134.179,IL,Evgeni Barabash trading as Active Cloud,185.185.134.179,IL
@@ -327,7 +339,6 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 185.225.210.25,DE,UK-2 Limited,185.225.210.25,DE
 185.225.210.26,DE,UK-2 Limited,185.225.210.26,DE
 185.225.210.27,DE,UK-2 Limited,185.225.210.27,DE
-185.225.210.43,DE,UK-2 Limited,185.225.210.43,DE
 185.225.210.47,DE,UK-2 Limited,185.225.210.47,DE
 185.225.210.69,DE,UK-2 Limited,185.225.210.69,DE
 185.225.210.82,DE,UK-2 Limited,185.225.210.82,DE
@@ -338,6 +349,7 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 185.225.210.160,DE,UK-2 Limited,185.225.210.160,DE
 185.225.210.172,DE,UK-2 Limited,185.225.210.172,DE
 185.244.128.22,RO,Belcloud LTD,185.244.128.22,RO
+188.72.209.157,NL,Webzilla B.V.,188.72.209.157,NL
 189.1.128.29,BR,Predlink Rede de Telecomunicï¿½ï¿½es Ltda,189.1.128.29,BR
 189.1.170.50,BR,Maxihost LTDA,189.1.170.50,BR
 189.1.170.211,BR,Maxihost LTDA,189.1.170.211,BR
@@ -351,17 +363,16 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 192.154.99.158,US,GorillaServers  Inc.,192.154.99.158,US
 192.154.226.82,US,Tier.Net Technologies LLC,192.154.226.82,US
 193.47.100.208,DE,htp GmbH,45.156.124.1,DE
-195.80.49.5,US,NPO G-net,2a06:a005:2e3:93f0:a2b4:6594:8ecf:7de0,US
-195.80.49.6,US,NPO G-net,2a06:a005:2e4:aa7b:6d19:eb0f:996d:9ac1,US
-195.80.49.8,US,NPO G-net,2a06:a005:2e1:705d:1896:edcd:e551:80d8,US
-195.80.49.9,US,NPO G-net,2a06:a005:2e7:3a51:dd3c:bbb4:595:f545,US
-195.80.49.10,US,NPO G-net,2a06:a005:2e6:5682:1328:1dbd:c245:7e7f,US
+195.80.49.5,US,NPO G-net,2a06:a005:2e3:b563:b95e:a335:8c8:6e6d,US
+195.80.49.6,US,NPO G-net,2a06:a005:2e4:592d:78ed:5406:1165:870e,US
+195.80.49.8,US,NPO G-net,2a06:a005:2e1:d6d9:223f:5a45:ab8d:bdf6,US
+195.80.49.9,US,NPO G-net,2a06:a005:2e7:6b4:940c:607a:6f4e:40ab,US
+195.80.49.10,US,NPO G-net,2a06:a005:2e6:84de:f545:e1fc:f9ee:e3c9,US
 195.186.208.81,CH,Swisscom (Schweiz) AG,195.186.210.54,CH
 195.186.210.34,CH,Swisscom (Schweiz) AG,195.186.210.54,CH
 195.186.210.54,CH,Swisscom (Schweiz) AG,195.186.210.54,CH
 195.231.81.101,IT,Aruba S.p.A.,195.231.81.101,IT
 196.240.126.98,SG,Packet Exchange Limited,196.240.126.98,SG
-196.240.126.99,SG,Packet Exchange Limited,196.240.126.98,SG
 196.240.126.100,SG,Packet Exchange Limited,196.240.126.98,SG
 196.240.126.101,SG,Packet Exchange Limited,196.240.126.98,SG
 196.240.126.102,SG,Packet Exchange Limited,196.240.126.98,SG
@@ -408,6 +419,7 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 209.97.174.160,SG,DigitalOcean  LLC,209.97.174.160,SG
 209.200.152.14,US,Akamai Technologies  Inc.,209.200.145.116,US
 209.237.135.93,US,InterNIC Registration Services,64.69.216.78,US
+212.24.109.96,LT,UAB Rakrejus,212.24.109.96,LT
 212.47.236.221,FR,ONLINE S.A.S.,212.47.236.221,FR
 212.47.242.31,FR,ONLINE S.A.S.,212.47.242.31,FR
 212.47.242.199,FR,ONLINE S.A.S.,212.47.242.199,FR
@@ -421,4 +433,3 @@ tested_IPv4,Loc,Org,exit_IP,exit_loc
 212.78.94.92,GB,Virtual Internet (UK) Limited,212.78.94.92,GB
 212.78.94.95,GB,Virtual Internet (UK) Limited,212.78.94.95,GB
 220.181.39.222,CN,IDC  China Telecommunications Corporation,220.181.39.222,CN
-222.213.23.233,CN,No.31 Jin-rong Street,222.213.23.233,CN
